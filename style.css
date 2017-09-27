@@ -1,0 +1,99 @@
+/*
+Theme Name: Pocket Cars.
+Theme URI: Your Theme's URI
+Description: A brief description.
+Version: 1.0
+Author: Koen Roosa
+Author URI: Your website address.
+*/
+body{
+    background-color: grey;
+    width: 80%;
+    margin-left: 10%;
+}
+
+#voorbeeld{
+    width: 50%;
+}
+
+.menu{
+    text-align: center;
+    list-style: none;
+    background-color: ;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: right;
+    margin-left: 5%;;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+ text-decoration: underline;
+}
+
+#logo{
+    width: 10%;
+    height: 60px;
+    float: left;
+    margin-left: 5%;
+}
+
+#foto{
+    width:100%;
+    
+}
+
+#links{
+    padding-right: 30px;
+}
+#h20{
+    text-align: center;
+    float: right;
+    padding-left: 5%;
+}
+
+#h21{
+    text-align: center;
+    float: right;
+    padding-left: 5%;
+}
+
+#h22{
+    text-align: center;
+    float: right;
+}
+
+.tekst_block{
+    margin-right: 15%;
+    display: none;
+}
+
+.footer-h2{
+    text-align: center;
+    padding-top: 2%;
+    color: white;
+    
+}
+
+.footer-general{
+    background-color: #333;
+    height: 100px;
+    
+}
+
+
