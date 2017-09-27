@@ -14,7 +14,8 @@
 <li><a href="http://www.wp.koenroosa.eu/collectie">Collectie</a></li>  
 <li><a href="http://www.wp.koenroosa.eu/ruilen">Ruilen</a></li>  
 <li><a href="http://www.wp.koenroosa.eu/blogs">Blogs</a></li>    
-<a href="index.html"><img src="http://wp.koenroosa.eu/wp-content/uploads/2017/09/logo1.png" id="logo"></a>
+<a href="http://www.wp.koenroosa.eu/"><img src="http://wp.koenroosa.eu/wp-content/uploads/2017/09/logo1.png" id="logo"></a>
+<h2><a class="header_link" href="<?php the_permalink(); ?>" rel="bookmark" title="Permanent Link to <?php the_title_attribute(); ?>"><?php the_title(); ?></a></h2>
 
 </ul>
     

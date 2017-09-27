@@ -96,4 +96,15 @@ li a:hover {
     
 }
 
+.header_link{
+     display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.header_link:hover{
+    text-decoration: underline;
+}
 
